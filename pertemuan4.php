@@ -3,8 +3,7 @@
 class BangunDatar
 {
     public $phi;
-
-    // Konstanta phi disimpan di dalam constructor
+    
     function __construct()
     {
         $this->phi = 3.14;
